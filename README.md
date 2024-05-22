@@ -1,9 +1,9 @@
-# Project Name
-> Lending Club CaseStudy
+# Lending Club case study
+> Exploratory data analysis (EDA) of loan dataset
 
 
 ## Table of Contents
-* Exploratory content of loan database
+* EDA of loan database
 * Technologies Used: Python
 
 
